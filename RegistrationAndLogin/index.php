@@ -28,27 +28,7 @@ session_start();
 	<div class="size1 bg0 where1-parent">
 		<!-- Coutdown -->
 		<div class="flex-c-m bg-img1 size2 where1 overlay1 where2 respon2" style="background-image: url('../WelcomePage/images/bg01.jpg');">
-			<div class="wsize2 flex-w flex-c-m cd100 js-tilt">
-				<div class="flex-col-c-m size6 bor2 m-l-10 m-r-10 m-t-15">
-					<span class="l2-txt1 p-b-9 days">35</span>
-					<span class="s2-txt4">Days</span>
-				</div>
 
-				<div class="flex-col-c-m size6 bor2 m-l-10 m-r-10 m-t-15">
-					<span class="l2-txt1 p-b-9 hours">17</span>
-					<span class="s2-txt4">Hours</span>
-				</div>
-
-				<div class="flex-col-c-m size6 bor2 m-l-10 m-r-10 m-t-15">
-					<span class="l2-txt1 p-b-9 minutes">50</span>
-					<span class="s2-txt4">Minutes</span>
-				</div>
-
-				<div class="flex-col-c-m size6 bor2 m-l-10 m-r-10 m-t-15">
-					<span class="l2-txt1 p-b-9 seconds">39</span>
-					<span class="s2-txt4">Seconds</span>
-				</div>
-			</div>
 		</div>
 		
 		<!-- Form -->
@@ -65,13 +45,13 @@ session_start();
                 <?php if(isset($smsg)){ ?><div class="alert alert-success" role="alert"> <?php echo $smsg; ?> </div>
 
                 <p class="m1-txt1 p-b-36">
-					Our new car parking system is <span class="m1-txt2">Coming Soon</span>, Come back soon for more updates!
+					Our new car parking system is <span class="m1-txt1">Coming Soon</span>, Come back soon for more updates!
 				</p>
 			</div>
 
 			<div class="flex-w">
 				<a href="logout.php">
-					<i class="fa fa-lock"></i>
+					<p>Logout  <i class="fa fa-lock"></i>
 				</a>
 			</div>
 		</div>

@@ -15,11 +15,9 @@ if (isset($_POST['staff_id']) && isset($_POST['password'])){
 //3.1.2 If the posted values are equal to the database values, then session will be created for the user.
     if ($count == 1){
         $_SESSION['staff_id'] = $staff_id;
-        header('Location: /AutomatedCarParkingSystem/WelcomePage/index.php');
     }else{
 //3.1.3 If the login credentials doesn't match, he will be shown with an error message.
         $fmsg = "Invalid Login Credentials.";
-        header('Location: /AutomatedCarParkingSystem/RegistrationAndLogin/index.php');
     }
 }
 //3.1.4 if the user is logged in Greets the user with message
@@ -33,7 +31,7 @@ if (isset($_SESSION['staff_id'])){
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>LBU Car Parking Login</title>
+	<title>LBU Car Parking Log in</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--===============================================================================================-->
@@ -112,7 +110,7 @@ if (isset($_SESSION['staff_id'])){
 					</div>
 				</form>
 
-				<div class="login100-more" style="background-image: url('https://sewell-construction.co.uk/wp-content/uploads/sites/2/2016/12/Leeds-Beckett-Library-16-Sept-2016-008.jpg');">
+				<div class="login100-more" style="background-image: url('https://sonor.no/files/2015/07/headingley_1.jpg');">
 				</div>
 			</div>
 		</div>
