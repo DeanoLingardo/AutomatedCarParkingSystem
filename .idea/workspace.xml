@@ -1,15 +1,282 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae7c12fd-daea-442d-b070-88b5939fd059" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/WelcomePage/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationAndLogin/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/RegistrationAndLogin/signup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/animate/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/animate/animate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/animsition/css/animsition.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/animsition/css/animsition.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/animsition/css/animsition.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/animsition/css/animsition.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/animsition/js/animsition.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/animsition/js/animsition.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/animsition/js/animsition.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/animsition/js/animsition.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/bootstrap/js/popper.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/bootstrap/js/popper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/bootstrap/js/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/bootstrap/js/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/bootstrap/js/tooltip.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/bootstrap/js/tooltip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/countdowntime/countdowntime.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/countdowntime/countdowntime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/css-hamburgers/hamburgers.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/css-hamburgers/hamburgers.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/css-hamburgers/hamburgers.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/css-hamburgers/hamburgers.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/daterangepicker/daterangepicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/daterangepicker/daterangepicker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/daterangepicker/daterangepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/daterangepicker/daterangepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/daterangepicker/moment.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/daterangepicker/moment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/daterangepicker/moment.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/daterangepicker/moment.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/jquery/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/jquery/jquery-3.2.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/perfect-scrollbar/perfect-scrollbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/perfect-scrollbar/perfect-scrollbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/perfect-scrollbar/perfect-scrollbar.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/perfect-scrollbar/perfect-scrollbar.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/select2/select2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/select2/select2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/select2/select2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/select2/select2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/select2/select2.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/select2/select2.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegistrationAndLogin/vendor/select2/select2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/select2/select2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/animate/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/bootstrap/js/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/bootstrap/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/bootstrap/js/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/countdowntime/countdowntime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/countdowntime/moment-timezone-with-data.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/countdowntime/moment-timezone.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/countdowntime/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/jquery/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/select2/select2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/select2/select2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/select2/select2.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/select2/select2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WelcomePage/vendor/tilt/tilt.jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Vendor/vendor/tilt/tilt.jquery.min.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-289113130">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="1" />
+          <entry key="php" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+          <entry key="PHP" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="51" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="51" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RegistrationAndLogin/signup.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="113" column="70" selection-start-line="113" selection-start-column="70" selection-end-line="113" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WelcomePage/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="93" column="26" selection-start-line="93" selection-start-column="26" selection-end-line="93" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RegistrationAndLogin/signup.php" />
+        <option value="$PROJECT_DIR$/WelcomePage/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
   <component name="ProjectFrameBounds">
     <option name="x" value="20" />
     <option name="y" value="43" />
     <option name="width" value="1400" />
     <option name="height" value="837" />
   </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AutomatedCarParkingSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomatedCarParkingSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomatedCarParkingSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomatedCarParkingSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="WelcomePage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WelcomePage" />
+      <recent name="$PROJECT_DIR$/RegistrationAndLogin/fonts" />
+      <recent name="$PROJECT_DIR$/Vendor/vendor" />
+      <recent name="$PROJECT_DIR$/Vendor" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae7c12fd-daea-442d-b070-88b5939fd059" name="Default Changelist" comment="" />
+      <created>1539246840208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539246840208</updated>
+      <workItem from="1539246841484" duration="854000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="854000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="20" y="43" width="1400" height="837" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="PHP-CGI Server" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegistrationAndLogin/signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="113" column="70" selection-start-line="113" selection-start-column="70" selection-end-line="113" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WelcomePage/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="93" column="26" selection-start-line="93" selection-start-column="26" selection-end-line="93" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

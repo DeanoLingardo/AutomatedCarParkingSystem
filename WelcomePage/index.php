@@ -5,18 +5,18 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!--===============================================================================================-->	
-	<link rel="icon" type="image/png" href="../WelcomePage/images/icons/favicon.ico"/>
+	<link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="../WelcomePage/vendor/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="../Vendor/vendor/bootstrap/css/bootstrap.min.css">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="../WelcomePage/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="../WelcomePage/vendor/animate/animate.css">
+	<link rel="stylesheet" type="text/css" href="../Vendor/vendor/animate/animate.css">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="../WelcomePage/vendor/select2/select2.min.css">
+	<link rel="stylesheet" type="text/css" href="../Vendor/vendor/select2/select2.min.css">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="../WelcomePage/css/util.css">
-	<link rel="stylesheet" type="text/css" href="../WelcomePage/css/main.css">
+	<link rel="stylesheet" type="text/css" href="css/util.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
 <!--===============================================================================================-->
 </head>
 <body>
@@ -24,7 +24,7 @@
 	
 	<div class="size1 bg0 where1-parent">
 		<!-- Coutdown -->
-		<div class="flex-c-m bg-img1 size2 where1 overlay1 where2 respon2" style="background-image: url('../WelcomePage/images/bg01.jpg');">
+		<div class="flex-c-m bg-img1 size2 where1 overlay1 where2 respon2" style="background-image: url('images/bg01.jpg');">
 			<div class="wsize2 flex-w flex-c-m cd100 js-tilt">
 				<div class="flex-col-c-m size6 bor2 m-l-10 m-r-10 m-t-15">
 					<span class="l2-txt1 p-b-9 days">35</span>
@@ -51,7 +51,7 @@
 		<!-- Form -->
 		<div class="size3 flex-col-sb flex-w p-l-75 p-r-75 p-t-45 p-b-45 respon1">
 			<div class="wrap-pic1">
-				<img src="../WelcomePage/images/icons/logo2.png" alt="LOGO">
+				<img src="images/icons/logo2.png" alt="LOGO">
 			</div>
 
 			<div class="p-t-50 p-b-60">
@@ -91,17 +91,17 @@
 	
 
 <!--===============================================================================================-->	
-	<script src="../WelcomePage/vendor/jquery/jquery-3.2.1.min.js"></script>
+	<script src="../Vendor/vendor/jquery/jquery-3.2.1.min.js"></script>
 <!--===============================================================================================-->
-	<script src="../WelcomePage/vendor/bootstrap/js/popper.js"></script>
-	<script src="../WelcomePage/vendor/bootstrap/js/bootstrap.min.js"></script>
+	<script src="../Vendor/vendor/bootstrap/js/popper.js"></script>
+	<script src="../Vendor/vendor/bootstrap/js/bootstrap.min.js"></script>
 <!--===============================================================================================-->
-	<script src="../WelcomePage/vendor/select2/select2.min.js"></script>
+	<script src="../Vendor/vendor/select2/select2.min.js"></script>
 <!--===============================================================================================-->
-	<script src="../WelcomePage/vendor/countdowntime/moment.min.js"></script>
-	<script src="../WelcomePage/vendor/countdowntime/moment-timezone.min.js"></script>
-	<script src="../WelcomePage/vendor/countdowntime/moment-timezone-with-data.min.js"></script>
-	<script src="../WelcomePage/vendor/countdowntime/countdowntime.js"></script>
+	<script src="../Vendor/vendor/countdowntime/moment.min.js"></script>
+	<script src="../Vendor/vendor/countdowntime/moment-timezone.min.js"></script>
+	<script src="../Vendor/vendor/countdowntime/moment-timezone-with-data.min.js"></script>
+	<script src="../Vendor/vendor/countdowntime/countdowntime.js"></script>
 	<script>
 		$('.cd100').countdown100({
 			/*Set Endtime here*/
@@ -118,14 +118,14 @@
 		});
 	</script>
 <!--===============================================================================================-->
-	<script src="../WelcomePage/vendor/tilt/tilt.jquery.min.js"></script>
+	<script src="../Vendor/vendor/tilt/tilt.jquery.min.js"></script>
 	<script >
 		$('.js-tilt').tilt({
 			scale: 1.1
 		})
 	</script>
 <!--===============================================================================================-->
-	<script src="../WelcomePage/js/main.js"></script>
+	<script src="js/main.js"></script>
 
 </body>
 </html>
