@@ -10,7 +10,7 @@ if (isset($_POST['staff_id']) && isset($_POST['password']) && isset($_POST['plat
     $query = "INSERT INTO `users` (staff_id, plate, email, password) VALUES ('$staff_id', '$plate', '$email', '$password')";
     $result = mysqli_query($con, $query);
     if($result){
-        header('Location: ./index.php');
+        header('Location: /AutomatedCarParkingSystem/WelcomePage/index.php');
 
     }else{
         $fmsg ="User Registration Failed";
@@ -48,6 +48,7 @@ if (isset($_POST['staff_id']) && isset($_POST['password']) && isset($_POST['plat
 <!--===============================================================================================-->
 </head>
 <body style="background-color: #666666;">
+
 	<div class="limiter">
 		<div class="container-login100">
 			<div class="wrap-login100">
@@ -59,7 +60,7 @@ if (isset($_POST['staff_id']) && isset($_POST['password']) && isset($_POST['plat
 					</span>
 
                     <div class="wrap-input100 validate-input" data-validate = "Staff Id example (C3461349)">
-                        <input maxlength="8" class="input100" type="text" name="staff_id">
+                        <input class="input100" type="text" name="staff_id">
                         <span class="focus-input100"></span>
                         <span class="label-input100">Staff ID</span>
                     </div>
@@ -97,7 +98,7 @@ if (isset($_POST['staff_id']) && isset($_POST['password']) && isset($_POST['plat
 
 					<div class="text-center p-t-46 p-b-20">
 						<span href="loginpage.html" class="txt2">
-							<a href="/RegistrationAndLogin/RegistrationAndLogin/login.php">log in</a>
+							<a href="/AutomatedCarParkingSystem/RegistrationAndLogin/login.php">log in</a>
 						</span>
 					</div>
 				</form>
