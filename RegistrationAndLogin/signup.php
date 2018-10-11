@@ -10,7 +10,7 @@ if (isset($_POST['staff_id']) && isset($_POST['password']) && isset($_POST['plat
     $query = "INSERT INTO `users` (staff_id, plate, email, password) VALUES ('$staff_id', '$plate', '$email', '$password')";
     $result = mysqli_query($con, $query);
     if($result){
-        header('Location: /AutomatedCarParkingSystem/WelcomePage/index.php');
+        header('Location: /AutomatedCarParkingSystem/RegistrationAndLogin/index.php');
 
     }else{
         $fmsg ="User Registration Failed";
@@ -126,6 +126,6 @@ if (isset($_POST['staff_id']) && isset($_POST['password']) && isset($_POST['plat
 	<script src="../Vendor/vendor/countdowntime/countdowntime.js"></script>
 <!--===============================================================================================-->
 	<script src="Login-screen/js/main.js"></script>
-<?php ?>
 </body>
 </html>
+<?php ?>
