@@ -27,7 +27,7 @@ if (isset($_POST['staff_id']) && isset($_POST['password']) && isset($_POST['plat
 <!--===============================================================================================-->
 	<link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="../Vendor/vendor/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="../UserInterface/vendor/bootstrap/css/bootstrap.min.css">
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
 <!--===============================================================================================-->
@@ -115,8 +115,8 @@ if (isset($_POST['staff_id']) && isset($_POST['password']) && isset($_POST['plat
 <!--===============================================================================================-->
 	<script src="../Vendor/vendor/animsition/js/animsition.min.js"></script>
 <!--===============================================================================================-->
-	<script src="../Vendor/vendor/bootstrap/js/popper.js"></script>
-	<script src="../Vendor/vendor/bootstrap/js/bootstrap.min.js"></script>
+	<script src="../UserInterface/vendor/bootstrap/js/popper.js"></script>
+	<script src="../UserInterface/vendor/bootstrap/js/bootstrap.min.js"></script>
 <!--===============================================================================================-->
 	<script src="../Vendor/vendor/select2/select2.min.js"></script>
 <!--===============================================================================================-->
