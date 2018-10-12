@@ -68,7 +68,7 @@ if (isset($_SESSION['staff_id'])){
 						Login to continue
 					</span>
 
-					<div class="wrap-input100 validate-input" data-validate = "">
+					<div class="wrap-input100 validate-input" data-validate = "Example: C3461359">
 						<input class="input100" type="text" id="staff_id" name="staff_id">
 						<span class="focus-input100"></span>
 						<span class="label-input100">Staff ID</span>
