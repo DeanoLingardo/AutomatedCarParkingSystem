@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae7c12fd-daea-442d-b070-88b5939fd059" name="Default Changelist" comment="Merge branch 'master' of https://github.com/DeanoLingardo/AutomatedCarParkingSystem&#10;&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +24,7 @@
           <entry key="Codetest" value="1" />
           <entry key="css" value="4" />
           <entry key="html" value="3" />
-          <entry key="js" value="1" />
+          <entry key="js" value="2" />
           <entry key="json" value="2" />
           <entry key="md" value="1" />
           <entry key="php" value="5" />
@@ -34,7 +35,7 @@
           <entry key="CSS" value="4" />
           <entry key="HTML" value="4" />
           <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="1" />
+          <entry key="JavaScript" value="2" />
           <entry key="Markdown" value="1" />
           <entry key="PHP" value="5" />
         </counts>
@@ -78,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/RegistrationAndLogin/login.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="275">
-              <caret line="74" column="26" lean-forward="true" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+              <caret line="74" column="26" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -91,7 +92,7 @@
         <entry file="file://$PROJECT_DIR$/RegistrationAndLogin/testgitfile.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -100,7 +101,7 @@
         <entry file="file://$PROJECT_DIR$/UserInterface/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -204,6 +205,24 @@
             <path>
               <item name="AutomatedCarParkingSystem" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutomatedCarParkingSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="UserInterface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomatedCarParkingSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomatedCarParkingSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="UserInterface" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomatedCarParkingSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomatedCarParkingSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="UserInterface" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutomatedCarParkingSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutomatedCarParkingSystem" type="462c0819:PsiDirectoryNode" />
               <item name="Vendor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -218,31 +237,6 @@
               <item name="Vendor" type="462c0819:PsiDirectoryNode" />
               <item name="vendor" type="462c0819:PsiDirectoryNode" />
               <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutomatedCarParkingSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutomatedCarParkingSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="Vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutomatedCarParkingSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutomatedCarParkingSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="Vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutomatedCarParkingSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutomatedCarParkingSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="Vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap.js" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -259,12 +253,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Vendor/vendor/bootstrap" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/UserInterface/vendor/bootstrap" />
+      <recent name="$PROJECT_DIR$/Vendor/vendor/bootstrap" />
       <recent name="$PROJECT_DIR$/RegistrationAndLogin" />
       <recent name="$PROJECT_DIR$/RegistrationAndLogin/PHP" />
       <recent name="$PROJECT_DIR$/WelcomePage" />
-      <recent name="$PROJECT_DIR$/RegistrationAndLogin/fonts" />
-      <recent name="$PROJECT_DIR$/Vendor/vendor" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -312,7 +309,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14707000" />
+    <option name="totallyTimeSpent" value="15361000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -328,7 +325,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="PHP-CGI Server" weight="0.32885906" />
@@ -460,7 +457,7 @@
     <entry file="file://$PROJECT_DIR$/RegistrationAndLogin/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="74" column="26" lean-forward="true" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+          <caret line="74" column="26" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -468,7 +465,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vendor/vendor/bootstrap/js/bootstrap.min.js">
+    <entry file="file://$PROJECT_DIR$/UserInterface/vendor/bootstrap/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="2" selection-end-column="13" />
@@ -478,14 +475,21 @@
     <entry file="file://$PROJECT_DIR$/UserInterface/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vendor/vendor/bootstrap/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="61" lean-forward="true" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RegistrationAndLogin/testgitfile.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
