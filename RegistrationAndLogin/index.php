@@ -10,7 +10,7 @@ session_start();
 <!--===============================================================================================-->	
 	<link rel="icon" type="image/png" href="../WelcomePage/images/icons/favicon.ico"/>
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="../Vendor/vendor/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="../UserInterface/vendor/bootstrap/css/bootstrap.min.css">
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="../WelcomePage/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
 <!--===============================================================================================-->
@@ -64,8 +64,8 @@ session_start();
 <!--===============================================================================================-->	
 	<script src="../Vendor/vendor/jquery/jquery-3.2.1.min.js"></script>
 <!--===============================================================================================-->
-	<script src="../Vendor/vendor/bootstrap/js/popper.js"></script>
-	<script src="../Vendor/vendor/bootstrap/js/bootstrap.min.js"></script>
+	<script src="../UserInterface/vendor/bootstrap/js/popper.js"></script>
+	<script src="../UserInterface/vendor/bootstrap/js/bootstrap.min.js"></script>
 <!--===============================================================================================-->
 	<script src="../Vendor/vendor/select2/select2.min.js"></script>
 <!--===============================================================================================-->
